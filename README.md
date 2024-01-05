@@ -1,6 +1,6 @@
 # TicTacToe
 
-TicTacToe is a SwiftUI game.
+TicTacToe is a SwiftUI game with a simple AI inside of it you can play the game against AI.
 
 ## Installation
 
